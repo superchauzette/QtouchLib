@@ -69,18 +69,10 @@ function BoutonAllumer(mot,numBtn){
 }
 
 //les exports
-/*
+
 exports.onChange = onChange;
 exports.read = read;
 exports.BoutonAllumer = BoutonAllumer;
 exports.onPressLong = onPressLong;
 exports.onPressDown = onPressDown;
 exports.onPressUp = onPressUp;
-*/
-
-module.exports = {
-  read: read,
-  BoutonAllumer: BoutonAllumer,
-  onPressDown: onPressDown,
-  onPressUp: onPressUp
-}

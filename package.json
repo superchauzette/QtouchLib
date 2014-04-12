@@ -1,22 +1,28 @@
 {
   "name": "qtouch",
   "author": "Superchauzette",
+  "email": "kevin.tillot@gmail.com",
   "description": "interaction with qtouch component",
   "contributors": [
-    {
-      "name": "Romain",
-      "email": ""
-    }
+    "Romain"
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/superchauzette/QtouchLib"
   },
   "keywords": [
-    "qtouch"
+    "qtouch",
+    "AT42QT1070",
+    "capteur capacitif"
   ],
-  "dependencies": {
-    "color-convert": "~0.3.1",
-    "pi-blaster.js": "0.0.2"
-  }
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/superchauzette/QtouchLib/issues"
+  },
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD"
 }

@@ -1,4 +1,4 @@
-var qtouch = require("./qtouch");
+var qtouch = require("qtouch");
 
 // sur l'appui du bouton 0 KEY0
 qtouch.onPressUp(0, function(){
