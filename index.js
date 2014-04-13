@@ -69,7 +69,6 @@ function BoutonAllumer(mot,numBtn){
 }
 
 //les exports
-
 exports.onChange = onChange;
 exports.read = read;
 exports.BoutonAllumer = BoutonAllumer;
