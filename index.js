@@ -64,14 +64,14 @@ function onPressUp(numBtn, callback){
 }
 
 // MASQUE BINAIRE pour tester par rapport au data I2C lue si le bouton entrer en paramatre est enclenché ou non
-function BoutonAllumer(mot,numBtn){
+function binaryMask (mot,numBtn){
 	return ((mot>>numBtn) & '0x01')
 }
 
 //les exports
 exports.onChange = onChange;
 exports.read = read;
-exports.BoutonAllumer = BoutonAllumer;
+exports.binaryMask  = binaryMask ;
 exports.onPressLong = onPressLong;
 exports.onPressDown = onPressDown;
 exports.onPressUp = onPressUp;
