@@ -1,4 +1,4 @@
-Qtouch : AT42QT1070 capteur capacitif
+Qtouch : AT42QT1070 Touch Sensor IC
 ======
 ## In English
 

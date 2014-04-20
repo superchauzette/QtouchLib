@@ -2,7 +2,7 @@
   "name": "qtouch",
   "author": "Superchauzette",
   "email": "kevin.tillot@gmail.com",
-  "description": "interaction with qtouch component",
+  "description": "interaction with qtouch component : AT42QT1070 Touch Sensor IC",
   "contributors": [
     "Romain"
   ],
@@ -13,13 +13,15 @@
   "keywords": [
     "qtouch",
     "AT42QT1070",
-    "capteur capacitif"
+    "capteur capacitif",
+    "IC",
+    "Touch Sensor"
   ],
   "dependencies": {},
   "bugs": {
     "url": "https://github.com/superchauzette/QtouchLib/issues"
   },
-  "version": "0.0.1",
+  "version": "0.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
