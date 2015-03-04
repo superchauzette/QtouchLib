@@ -10,8 +10,8 @@ To run the component must:
 - Download this librairy via npm and nodejs link to your project 
 
 activate the I2C bus: 
-http://skpang.co.uk/blog/archives/575 
-http://innovelectronique.fr/2013/03/02/utilisation-du-bus-i2c-sur-raspberrypi/ 
+* http://skpang.co.uk/blog/archives/575 
+* http://innovelectronique.fr/2013/03/02/utilisation-du-bus-i2c-sur-raspberrypi/ 
  
 install i2c-tools tool: 
 ~~~~ sh 
