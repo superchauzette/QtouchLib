@@ -7,7 +7,7 @@ nodejs QTouch library for component AT42QT1070 using the I2C bus on a raspberry 
 To run the component must: 
 - Enable the I2C bus 
 - Install the i2c-tools program 
-- Download this librairy via npm and nodejs link to your project 
+- Download this librairy with npm 
 
 activate the I2C bus: 
 * http://skpang.co.uk/blog/archives/575 
