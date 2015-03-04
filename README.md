@@ -39,8 +39,8 @@ Pour faire marcher le composant il faut :
 - telecharger cette librairy via npm et la lier à votre projet nodejs
 
 activer le bus I2C :
-http://skpang.co.uk/blog/archives/575 
-http://innovelectronique.fr/2013/03/02/utilisation-du-bus-i2c-sur-raspberrypi/ 
+* http://skpang.co.uk/blog/archives/575 
+* http://innovelectronique.fr/2013/03/02/utilisation-du-bus-i2c-sur-raspberrypi/ 
 
 installer le programme i2c-tools :
 ~~~~ sh 
