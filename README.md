@@ -32,7 +32,7 @@ var qtouch = require("qtouch");
 ## En Francais
 
 ###description:
-librairie nodejs pour le composant qtouch [AT42QT1070](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.atmel.com%2Fimages%2Fatmel-9596-at42-qtouch-bsw-at42qt1070_datasheet.pdf) utilisant le bus I2C sur un raspberry pi B. Ce composant est un capteur tactile capacitif qui s'utilise comme un bouton. Ce composant se branche sur le bus I2C du raspberry pi serie B.Cette librairie met à disposition des interfaces qui permet de lire le bus I2C du composant, de detecter differents appui sur le capteur (voir les exemples).
+librairie nodejs pour le composant qtouch [AT42QT1070](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.atmel.com%2Fimages%2Fatmel-9596-at42-qtouch-bsw-at42qt1070_datasheet.pdf) utilisant le bus I2C sur un raspberry pi B. Ce composant est un capteur tactile capacitif s'utilise comme un bouton. Il se branche sur le bus I2C du raspberry pi serie B.Cette librairie met à disposition des interfaces qui permet de lire le bus I2C du composant, de detecter differents evenements liés au capteur (voir les exemples).
 Pour faire marcher le composant il faut :
 - activer le bus I2C
 - installer le programme i2c-tools
